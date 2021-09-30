@@ -5,5 +5,4 @@ The main purpose of this project to help the tourists and other visitors to the 
 
 The Smart City Java Project serves the visitors as a guide of the city, and hence the project is also called City Guide Project in Java.
 
-There is no use of database. 
-I have saved the data in a text file and read them from that file.
+There is no use of database.
